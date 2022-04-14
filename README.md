@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Exotic-Toast
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning Love2D 
+- 📫 How to reach me: ALGUMB3R#0723 (Discord)
